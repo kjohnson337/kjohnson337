@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi! My name is Kaitlynn Johnson, and I'm a psychology and journalism student at the University of Nebraska-Lincoln. 
 
 <!--
 **kjohnson337/kjohnson337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
